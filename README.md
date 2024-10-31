@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pixelated-Dreamer
+- 👋 Hi, I’m @Pixel-Dreamer
 - 👀 I’m interested in Python and AI
 - 🌱 I’m currently learning Streamlit AI apps
 - 💞️ I’m looking to collaborate on 
