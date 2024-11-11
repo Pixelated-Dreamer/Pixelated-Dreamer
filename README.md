@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @Pixel-Dreamer
-- 👀 I’m interested in Python and AI
-- 🌱 I’m currently learning Streamlit AI apps
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me: nevaankantai@gmail.com
-- 😄 Pronouns: He, Him
-- ⚡ Fun fact: I'm only 11 years old!
+Hello! My name's Nevaan, and I'm an 11 year old software developer from the US!
 
-<!---
-Pixelated-Dreamer/Pixelated-Dreamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A bit about me :
+I like to play chess sometimes.
+I want to learn more about AI and machine learning...
+I use python for coding.
