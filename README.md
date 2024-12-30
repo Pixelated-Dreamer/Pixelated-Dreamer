@@ -1,6 +1,15 @@
-Hello! My name's Nevaan, and I'm an 11 year old software developer from the US! <br>
+# 👋 Hello! I'm Nevaan
 
-A bit about me : <br>
-I like to play chess sometimes. <br>
-I want to learn more about AI and machine learning... <br>
-I use python for coding. 
+## About Me
+I'm an 11 year old software developer from the US! 
+
+### Interests
+- ♟️ Chess enthusiast
+- 🤖 Aspiring AI and machine learning expert
+- 🐍 Python coder
+
+## 🌟 Projects
+Explore my repositories to see my coding journey and projects!
+
+## 📫 Let's Connect
+Feel free to reach out or follow me on my coding adventures!
