@@ -1,5 +1,8 @@
 # 👋 Hello! I'm Nevaan
 
+I play chess a bit BTW: [My Chess]((https://www.chess.com/member/pixelatedreamer))
+
+
 ## About Me
 I'm an 11 year old software developer from the US! 
 
