@@ -1,8 +1,6 @@
 # 👋 Hello! I'm Nevaan
 
-<p align="center">
-  <a href="[https://your-link.com](https://www.chess.com/member/pixelatedreamer)">My Chess.com</a>
-</p>
+[🔗 My Chess.com](https://www.chess.com/member/pixelatedreamer)
 
 ## About Me
 I'm an 11 year old software developer from the US! 
