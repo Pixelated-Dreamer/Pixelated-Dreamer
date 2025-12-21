@@ -5,7 +5,7 @@
 I'm an 11 year old AI enthusiast from the US! 
 
 
-### Interests
+# Interests
 - ♟️ Chess enthusiast
 - 🤖 Aspiring AI and machine learning expert
 - 🐍 Python coder
